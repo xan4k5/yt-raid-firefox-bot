@@ -33,10 +33,6 @@ accounts/
 │   ├── sessionstore.jsonlz4
 │   ├── webappsstore.sqlite
 │   └── storage/          (folder)
-├── 2/
-│   └── (same structure)
-├── 3/
-    └── ...
 
 How to get these files:
 
